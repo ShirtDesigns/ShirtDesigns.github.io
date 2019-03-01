@@ -1,3 +1,1 @@
-# ShirtDesigns.github.io
-
-<p> Shirt Designs </p>
+<b> Shirt Designs </b>
